@@ -1,0 +1,56 @@
+body{
+   
+    color: aliceblue;
+    background-color:darkblue;
+    width: fit-content;
+    font-size: larger;
+    font-family: "Trirong", serif;
+
+}
+#A1,#A2{
+    width:200px;
+    height: 30px;
+    font-size: large;
+    border-color:  rgb(247, 6, 138);
+    border-radius: 3%;
+    border-width: 3px;
+}
+#A3,#A4,#A5,#A6,#A7,#A8,#A10,#A11{
+    width: 175px;
+    height: 25px;
+
+    font-size: large;
+    border-radius: 3%;
+    border-width: 3px;
+    border-color:  rgb(247, 6, 138);
+}
+
+.regForm{
+    font-size: larger;
+}
+#A9
+{
+    width: 200px;
+    height: 50px;
+    font-size: larger;
+    color:white;
+    background-color: rgb(247, 6, 138);
+border-color: rgb(247, 6, 138);
+}
+.All
+{
+    color: rgb(247, 6, 138);
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    background-color: snow;
+    border-radius: 1%;
+    align-content: center;
+    border-color: rgb(250, 9, 141);
+    width: 1520px;
+    height: 600px;
+}
+#A8
+{
+    width: 209px; height: 53px;
+}
